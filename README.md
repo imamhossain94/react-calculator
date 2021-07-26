@@ -5,7 +5,7 @@ First, ReactJS app.
 ## Screenshot
 
 <p align="center">
-  <img alt="Image1" src="https://github.com/imamhossain94/react-calculator/blob/main/screenshot.png" width="100%">
+  <img alt="Image1" src="https://github.com/imamhossain94/react-calculator/blob/main/screenshot.png" width="50%">
 </p>
 
 
